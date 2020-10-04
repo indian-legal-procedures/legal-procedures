@@ -1,0 +1,10 @@
+# Aadhaar Enrolment
+
+- The Aadhaar enrolment process includes visiting Enrolment Centre, filling the enrolment form, getting demographic and biometric data captured, submitting proof of Identity and address documents, before collecting acknowledgement slip containing Enrolment ID. The highlights of Aadhaar enrolment are:
+  - Aadhaar enrolment is free of cost.
+  - You can go to any authorized Aadhaar enrolment centre anywhere in India with your proof of identity and proof of address documents
+  - UIDAI process accepts wide range of PoI (Proof of Identity) and PoA (Proof of Address) documents. View the list of supporting documents. Common proofs of identity and address are election photo ID card, Ration card, passport and driving license.
+  - Photo ID cards like PAN card and Govt ID cards are permissible for identity proof. Address proof documents also include water - electricity - Landline telephone bills for the last three months.
+  - In case you do not have above common proofs, Certificate of Identity having photo issued by Gazetted Officer/Tehsildar on letterhead is also accepted as PoI. Certificate of Address having photo issued by MP or MLA /Gazetted Officer/Tehsildar on letterhead or by Village Panchayat head or its equivalent authority (for rural areas) is accepted as valid PoA.
+  - Even if someone in a family does not have individual valid documents, the resident can still enrol if his/her name exists in family entitlement document. In this case the Head of Family in entitlement document needs to be enrolled first with valid PoI & PoA document. The head of the Family can then introduce other members in the family while they are enrolling. UIDAI accepts many document types as Proof of Relationship. Please View the list of supporting documents..
+  - Where there are no documents available, resident may also take the help of Introducers available at the enrolment centre. The Introducers are notified by the Registrar. For further details please contact office of the concerned Registrar.

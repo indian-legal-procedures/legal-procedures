@@ -1,6 +1,6 @@
 
 # How to get a sim card in India
-## Must Know These Facts About Buying a SIM Card in Indaia
+## Must Know These Facts About Buying a SIM Card in India
 
 1. **Types of SIM cards:** There are two types of Indian SIM cards available namely; postpaid and prepaid or pay as you go SIM. A postpaid SIM Card is the one where you are billed after having used the services like calling, data, texting. Postpaid plans cost more than prepaid plans generally whereas a prepaid sim card in india for foreigners or a pay as you go sim india is where you pay before hand to avail services like calling, data, texting. The plans on this one are comparatively cheaper.
 

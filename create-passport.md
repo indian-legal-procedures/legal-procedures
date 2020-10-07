@@ -1,0 +1,14 @@
+# Create a new passport
+- Register through the Passport Seva Online Portal. (Click on "Register Now" link on the Home Page).
+- Login to the Passport Seva Online Portal with the registered Login Id.
+- Click "Apply for Fresh Passport/Re-issue of Passport" link.
+-	Fill in the required details in the form and submit.
+-	Click the "Pay and Schedule Appointment" link on the "View Saved/Submitted Applications" screen to schedule an appointment.
+    - Online Payment has been made mandatory for booking appointments at all PSK/POPSK/PO.
+    - Online Payment can be made using any one of the following modes:
+    - Credit/Debit Card (MasterCard and Visa)
+    - Internet Banking (State Bank of India (SBI) Associate Banks and Other Banks)
+    - SBI Bank Challan
+- Click the "Print Application Receipt" link to print the application receipt containing Application Reference Number (ARN)/Appointment Number.
+- **Note:** Carrying printout of Application Receipt is no longer required. An SMS with your appointment details is also accepted as proof of appointment during your visit to Passport Office.
+- Visit the Passport Seva Kendra (PSK)/Regional Passport Office (RPO) where appointment has been booked, along with original documents.

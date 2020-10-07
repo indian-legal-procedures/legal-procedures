@@ -1,0 +1,6 @@
+# Port Sim Card
+- Send a message to PORT <space> Mobile Number to 1900 Eg: PORT 7777777777 and send this message to 1900. You will receive a UPC Code in the message. Note it down. The UPC is valid for 15 days (30 days in case of J&K, NE & Assam Service Areas).
+- Now go to the nearest Customer service center or the retailer of the operator you want to shift to and fill the Form and pay Rs. 19. In the form, you have to mention UPC Code ( From Step 1). Submit your Identity, Address Proof, and Photograph. For Corporate/Company connections a NOC is required for MNP, duly signed and stamped on the company letterhead by the authorized signatory of the company along with the other documents.
+- The customer center will give an empty sim, after your payment and document submission. Within 1 day you will receive an acceptance message to confirm the porting.
+- Change over takes place on the 7th working day (15th working day in case of Jammu & Kashmir, Assam, and North East service areas). You will get an SMS from the operator with the date and time for porting. The service disruption time shall be around 2 hrs during night time of the date/time of porting.
+- Insert the new sim in your phone, Now you are on the new network with the old number.

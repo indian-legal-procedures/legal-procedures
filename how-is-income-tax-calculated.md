@@ -1,6 +1,6 @@
 # Salaried
 
- Income from salary is the sum of Basic salary + HRA + Special Allowance + Transport Allowance + any other allowance. Some components of your salary are exempt from tax, such as telephone bills reimbursement, leave travel allowance. If you receive HRA and live on rent, you can claim exemption on HRA. Calculate exempt portion of HRA, by using this HRA Calculator.
+Income from salary is the sum of Basic salary + HRA + Special Allowance + Transport Allowance + any other allowance. Some components of your salary are exempt from tax, such as telephone bills reimbursement, leave travel allowance. If you receive HRA and live on rent, you can claim exemption on HRA. Calculate exempt portion of HRA, by using this HRA Calculator.
 
 On top of these exemptions, a standard deduction of Rs 40,000 was introduced in budget 2018. This has been increased to Rs 50,000 in budget 2019.
 
